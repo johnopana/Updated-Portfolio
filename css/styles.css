@@ -273,7 +273,7 @@ z-index: 1000;
 .my-services{
     background-color: var(--clr-dark);
     background-image: url("Images/services.jpeg");
-    background-image: url("/Images/services.jpeg");
+    background-image: url("Images/services.jpeg");
     color: var(--clr-light);
     background-size: cover;
     background-blend-mode:multiply;
